@@ -4,7 +4,7 @@ import ReactFlow, {
   Background, 
   BackgroundVariant,
   ReactFlowProvider,
-  addEdge
+  
 } from 'reactflow';
 import { useStore } from './store';
 import { shallow } from 'zustand/shallow';
